@@ -6,6 +6,8 @@
 -->
 ![Header](./header_github.png)
 
+<img align="right" alt="Coding" width="400" src="https://github.com/hwebservices/hwebservices/blob/main/dash.gif">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwebservices&show_icons=true&theme=merko&count_private=true&how_icons=true)
 
 <h3 align="left">Connect with me:</h3>
