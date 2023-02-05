@@ -3,7 +3,7 @@
 
 ![Header](./header_github.png)
 
-<img align="right" alt="Coding" width="400" src="https://github.com/hwebservices/hwebservices/blob/main/dash.gif">
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwebservices&show_icons=true&theme=merko&count_private=true&how_icons=true)
 
@@ -20,12 +20,10 @@ h3 align="left">Languages and Tools:</h3>
 <a href="#" target="_blank"> <img src="https://github.com/hwebservices/hwebservices/blob/main/css.png" alt="css" width="40" height="40"/> </a> 
 <a href="#" target="_blank"> <img src="https://github.com/hwebservices/hwebservices/blob/main/javascript.png" alt="js" width="40" height="40"/> </a> </p>
 
-
-
-
+<img align="right" alt="Coding" width="400" src="https://github.com/hwebservices/hwebservices/blob/main/dash.gif">
 
 <h3 align="left">Connect with me:</h3>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 </p>
 
 Learn more about me 💙
