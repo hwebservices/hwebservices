@@ -13,14 +13,15 @@ h3 align="left">Languages and Tools:</h3>
 <a href="#" target="_blank"> <img src="https://github.com/hwebservices/hwebservices/blob/main/dart.png" alt="dart" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="#" target="_blank"> <img src="https://github.com/hwebservices/hwebservices/blob/main/linux.png" alt="linux" width="40" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://github.com/hwebservices/hwebservices/blob/main/osx.png" alt="osx" width="40" height="40"/> </a> </p>
+<a href="#" target="_blank"> <img src="https://github.com/hwebservices/hwebservices/blob/main/osx.png" alt="osx" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://github.com/hwebservices/hwebservices/blob/main/python.png" alt="python" width="40" height="40"/> </a> 
 <a href="#" target="_blank"> <img src="https://github.com/hwebservices/hwebservices/blob/main/html.png" alt="html" width="40" height="40"/> </a> 
 <a href="#" target="_blank"> <img src="https://github.com/hwebservices/hwebservices/blob/main/css.png" alt="css" width="40" height="40"/> </a> 
-<a href="#" target="_blank"> <img src="https://github.com/hwebservices/hwebservices/blob/main/javascript.png" alt="js" width="40" height="40"/> </a> </p>
+<a href="#" target="_blank"> <img src="https://github.com/hwebservices/hwebservices/blob/main/javascript.png" alt="js" width="40" height="40"/> </a> 
+</p>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/hwebservices/hwebservices/blob/main/dash.gif">
+<img align="right" alt="dash" width="250" src="https://github.com/hwebservices/hwebservices/blob/main/dash.gif">
 
 <h3 align="left">Connect with me:</h3>
 <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
