@@ -27,7 +27,8 @@
 <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 </p>
 
-Learn more about me 💙
+<h3 align="left">Learn more about me 💙</h3>
+
 
 - 🔭 I’m currently working on several Flutter apps because I cannot stop thinking about Flutter 💙
 - 🌱 I’m currently studying Cybersecurity
@@ -36,3 +37,13 @@ Learn more about me 💙
 - 📫 How to reach me: https://www.linkedin.com/in/henry-michels-111b0328/
 - ⚡ Fun fact: I speak 6 languages and I want to learn a few more 😁
 
+<h3 align="left">Licenses | Certifications | Badges</h3>
+
+- <a href="https://www.coursera.org/account/accomplishments/certificate/VKA8PEPMCPJK" target="_blank"> <img src="https://github.com/hwebservices/hwebservices/blob/main/ibm.jpeg" alt="ibm" width="20" height="20"/> AI Capstone Project with Deep Learning </a>
+- <a href="https://www.coursera.org/account/accomplishments/certificate/PZQCC26T28YP" target="_blank"> <img src="https://github.com/hwebservices/hwebservices/blob/main/ibm.jpeg" alt="ibm" width="20" height="20"/> Building Deep Learning Models with TensorFlow </a>
+- <a href="https://www.coursera.org/account/accomplishments/certificate/W86F8B7ZZB5D" target="_blank"> <img src="https://github.com/hwebservices/hwebservices/blob/main/ibm.jpeg" alt="ibm" width="20" height="20"/> Deep Neural Networks with PyTorch </a>
+- <a href="https://www.credly.com/badges/58b66627-2cbb-4f7d-aaa6-2c6378e15e3f/linked_in_profile" target="_blank"> <img src="https://github.com/hwebservices/hwebservices/blob/main/ibm.jpeg" alt="ibm" width="20" height="20"/> Deep Learning Essentials with Keras </a>
+- <a href="https://www.credly.com/badges/557dd941-1f23-4765-95e1-f9bfe3fbb8df/linked_in_profile" target="_blank"> <img src="https://github.com/hwebservices/hwebservices/blob/main/ibm.jpeg" alt="ibm" width="20" height="20"/> Machine Learning with Apache Spark </a>
+- <a href="https://www.credly.com/badges/09a4c834-0953-4fe0-aac8-fda9a80dc21b/linked_in_profile" target="_blank"> <img src="https://github.com/hwebservices/hwebservices/blob/main/ibm.jpeg" alt="ibm" width="20" height="20"/> Machine Learning with Python </a>
+- <a href="https://www.coursera.org/account/accomplishments/verify/ESQFJZ5ZAAML" target="_blank"> <img src="https://github.com/hwebservices/hwebservices/blob/main/duke.jpeg" alt="duke" width="20" height="20"/> Java Programming: Arrays, Lists, and Structured Data </a>
+- <a href="https://www.coursera.org/account/accomplishments/verify/UGN6HSB2SD55" target="_blank"> <img src="https://github.com/hwebservices/hwebservices/blob/main/duke.jpeg" alt="duke" width="20" height="20"/> Java Programming: Solving Problems with Software </a> 
