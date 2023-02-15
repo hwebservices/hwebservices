@@ -39,6 +39,12 @@
 
 <h3 align="left">Licenses | Certifications | Badges</h3>
 
+<p align="left"> 
+<a href="https://www.credential.net/d5a8d1eb-822e-41cb-9feb-0f306bde8d44" target="_blank"> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/67361369" alt="ibm" width="160" height="200"/></a>
+<a href="https://www.credential.net/4f63f2ee-a0ce-4dcc-ba13-52928a698352" target="_blank"> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/66962447" alt="ibm" width="160" height="200"/></a>
+<a href="https://www.credential.net/b940ad80-9232-4bfb-af76-b6636ac5e6fc" target="_blank"> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/66962410" alt="ibm" width="160" height="200"/></a>
+</p>
+
 - <a href="https://www.coursera.org/account/accomplishments/certificate/VKA8PEPMCPJK" target="_blank"> <img src="https://github.com/hwebservices/hwebservices/blob/main/ibm.jpeg" alt="ibm" width="20" height="20"/> AI Capstone Project with Deep Learning </a>
 - <a href="https://www.coursera.org/account/accomplishments/certificate/PZQCC26T28YP" target="_blank"> <img src="https://github.com/hwebservices/hwebservices/blob/main/ibm.jpeg" alt="ibm" width="20" height="20"/> Building Deep Learning Models with TensorFlow </a>
 - <a href="https://www.coursera.org/account/accomplishments/certificate/W86F8B7ZZB5D" target="_blank"> <img src="https://github.com/hwebservices/hwebservices/blob/main/ibm.jpeg" alt="ibm" width="20" height="20"/> Deep Neural Networks with PyTorch </a>
